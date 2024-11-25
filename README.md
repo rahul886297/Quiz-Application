@@ -51,4 +51,14 @@ Click the "Next" button to proceed to the next question.
 
 At the end of the quiz, your total score is displayed.
 
-🖼 Screenshots
+## 🖼 Screenshots
+### Choose the correct optiion.
+![Main Screen](Assets/Screenshot_1.png)
+
+### Difrent Question
+![Question Example](Assets/Screenshot_2.png)
+
+### Score
+![Score Screen](Assets/Screenshot_3.png)
+
+**Author:** [Rahul Mandal](https://github.com/rahul886297) 
