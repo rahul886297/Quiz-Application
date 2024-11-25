@@ -55,7 +55,7 @@ At the end of the quiz, your total score is displayed.
 ### Choose the correct optiion.
 ![Main Screen](Assets/Screenshot_1.png)
 
-### Different Question
+### Correct Question
 ![Question Example](Assets/Screenshot_2.png)
 
 ### Score
